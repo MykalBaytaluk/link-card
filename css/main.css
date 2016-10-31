@@ -21,14 +21,15 @@ a {
   border-radius: 8px;
   padding: .4em .75em .5em;
   margin: 0 0 1rem;
-  font-family: "Dosis", sans-serif;
+  font-family: Dosis, sans-serif;
   text-decoration: none;
 }
 
-h1 {
-  font-family: "Dosis", sans-serif;
+h2 {
+  font-family: Dosis, sans-serif;
 }
 
-dl {
+ul {
   display: inline-block;
+  padding: 1rem;
 }
